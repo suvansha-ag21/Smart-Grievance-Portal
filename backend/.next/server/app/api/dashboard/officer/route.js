@@ -1,0 +1,11 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/dashboard/officer/route.js")
+R.c("server/chunks/controllers_departmentController_1tpq4jf0xev00.js")
+R.c("server/chunks/_036iah8o90ias._.js")
+R.c("server/chunks/[root-of-the-server]__14oqu6f2i9z3c._.js")
+R.c("server/chunks/[root-of-the-server]__1m1rp1a1phdrv._.js")
+R.c("server/chunks/[root-of-the-server]__1v1-l-83czzsr._.js")
+R.c("server/chunks/_1qr0-b6a1r0nq._.js")
+R.c("server/chunks/controllers_dashboardController_1ncda5ik-wp2s.js")
+R.c("server/chunks/_next-internal_server_app_api_dashboard_officer_route_actions_1qhz1cyi-dsem.js")
+R.m(4211)
+module.exports=R.m(4211).exports

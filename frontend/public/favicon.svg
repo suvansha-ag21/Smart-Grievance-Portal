@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E40AF"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <filter id="shadow" x="12" y="10" width="40" height="46" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#shieldGrad)"/>
+  <!-- Shield Outer -->
+  <path d="M32 13C32 13 43.5 15.5 46.5 17C46.5 28 43.5 41 32 50C20.5 41 17.5 28 17.5 17C20.5 15.5 32 13 32 13Z" fill="white" fill-opacity="0.2" filter="url(#shadow)"/>
+  <path d="M32 13C32 13 43.5 15.5 46.5 17C46.5 28 43.5 41 32 50C20.5 41 17.5 28 17.5 17C20.5 15.5 32 13 32 13Z" stroke="#FFFFFF" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Checkmark Inside Shield -->
+  <path d="M25.5 31.5L30.5 36.5L39 26.5" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

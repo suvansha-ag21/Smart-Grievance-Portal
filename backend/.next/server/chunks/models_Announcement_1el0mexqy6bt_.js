@@ -1,0 +1,3 @@
+module.exports=[66044,(e,t,r)=>{let i=e.r(64328),n=new i.Schema({title:{type:String,required:!0},message:{type:String,required:!0},category:{type:String,default:"Notice"},priority:{type:String,enum:["High","Medium","Low"],default:"Medium"},createdBy:{type:i.Schema.Types.ObjectId,ref:"User"},expiryDate:Date,isActive:{type:Boolean,default:!0}},{timestamps:!0});t.exports=i.models.Announcement||i.model("Announcement",n)}];
+
+//# sourceMappingURL=models_Announcement_1el0mexqy6bt_.js.map

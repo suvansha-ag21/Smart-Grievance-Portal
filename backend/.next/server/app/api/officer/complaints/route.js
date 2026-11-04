@@ -1,0 +1,10 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/officer/complaints/route.js")
+R.c("server/chunks/[root-of-the-server]__14oqu6f2i9z3c._.js")
+R.c("server/chunks/_1x1gvf6eqqvlk._.js")
+R.c("server/chunks/controllers_officerController_1n8j5rqypim0v.js")
+R.c("server/chunks/[root-of-the-server]__1m1rp1a1phdrv._.js")
+R.c("server/chunks/[root-of-the-server]__1v1-l-83czzsr._.js")
+R.c("server/chunks/_036iah8o90ias._.js")
+R.c("server/chunks/_next-internal_server_app_api_officer_complaints_route_actions_0hzlk4aerj5j4.js")
+R.m(70130)
+module.exports=R.m(70130).exports

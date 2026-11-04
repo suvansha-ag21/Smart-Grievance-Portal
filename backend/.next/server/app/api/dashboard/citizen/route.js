@@ -1,0 +1,11 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/dashboard/citizen/route.js")
+R.c("server/chunks/controllers_departmentController_1tpq4jf0xev00.js")
+R.c("server/chunks/_036iah8o90ias._.js")
+R.c("server/chunks/[root-of-the-server]__14oqu6f2i9z3c._.js")
+R.c("server/chunks/[root-of-the-server]__1m1rp1a1phdrv._.js")
+R.c("server/chunks/[root-of-the-server]__1v1-l-83czzsr._.js")
+R.c("server/chunks/_1pd72i2oah2i9._.js")
+R.c("server/chunks/controllers_dashboardController_1ncda5ik-wp2s.js")
+R.c("server/chunks/_next-internal_server_app_api_dashboard_citizen_route_actions_1ttkhohtg5zmo.js")
+R.m(33769)
+module.exports=R.m(33769).exports
